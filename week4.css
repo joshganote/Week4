@@ -1,0 +1,20 @@
+header{
+  background-color: #28deeb;
+}
+h2{
+  background-color: #8ab7ff;
+  color: #ff7947;
+}
+h3{
+  background-color: #ffa866;
+  color: #fc72c3
+}
+.image1{
+  position: absolute;
+}
+.image2{
+  position: relative;
+  width: 510px;
+  length: 400px;
+  padding: 50px;
+}
