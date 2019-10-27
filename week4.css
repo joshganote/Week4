@@ -1,20 +1,39 @@
+
 header{
   background-color: #28deeb;
 }
 h2{
   background-color: #8ab7ff;
   color: #ff7947;
+  width: 600px;
+  text-align: center;
+  position: absolute;
+  left: 50px;
+  top: 192px;
+
+
 }
 h3{
   background-color: #ffa866;
-  color: #fc72c3
+  color: #fc72c3;
+  position: relative;
+  text-align: center;
+  width: 550px;
+  top: 390px;
+  left: 70px;
+
 }
 .image1{
   position: absolute;
 }
 .image2{
   position: relative;
-  width: 510px;
-  length: 400px;
-  padding: 50px;
+  width: 485px;
+  height: 245px;
+  left: 70px;
+  top: 83px;
+  border-style: inset;
+  border-color: gold;
+  border-width: 11px;
+
 }
